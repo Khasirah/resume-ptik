@@ -61,3 +61,34 @@ dasarnya m-dagang adalah gabungan dari e-dagang dan mobile computing
 4. l-dagang atau l-commerce  
 sistem perdagangan yang menekankan pada pencarian informasi yang dihasilkan oleh peratalan GPS
 contoh, pencarian informasi mengenai letak restoran yang terdekat dengan tempat pengguna internet berada
+
+### peran tik dalam bidang pariwisata dan kebudayaan
+
+1. meningkatkan pariwisata dan kebudayaan suatu daerah
+2. mempromosikan pariwisata dan kebudayaan ke manca negara
+3. meningkatkanya kesadaran masyarakat terhadap pariwisata
+4. meningkatnya jumlah kunjungan wisatawan mancanegara dan domestik
+5. meningkatknya diversifikasi produk wisata yang kompetitif
+6. contohnya: mempromosikan menggunakan internet
+
+### peran tik dalam bidang politik
+
+1. pemungutan suara secara elektronik
+2. mempermudah dalam proses pemungutan suara
+3. mempercepat dan mengurangi kesalahan dalam perhitungan suara
+4. dapat menfasilitasi kecurangan dalam pemilu
+
+### peran tik dalam bidang kesehatan
+
+1. mempermudah dalam pencarian data-data pasien
+2. meningkatkan komunikasi antara dokter, perawat dan para medis lainnya
+3. menggantikan fungsi manusia dalam hal pekerjaan yang rumit dan sulit
+
+### peran tik dalam bidang pendidikan
+
+1. tik sebagai skill dan kompetensi
+2. tik sebagai infrastruktur pembelajaran
+3. tik sebagai sumber bahan belajar
+4. tik sebagai alat bantu dan fasilitas pembelajaran
+5. tik sebagai pendukung manajemen pembelajaran
+6. tik sebagai sistem pendukung keputusan
