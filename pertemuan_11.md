@@ -56,4 +56,16 @@
         1. memaksa korban u/ merset atau tidak bisa lagi digunakan
         2. menghalangi media komunikasi antara para pemakai dan korban
 3. pelanggaran piracy
-    1. pembajakan 
+    1. pembajakan perangakat lunak
+    2. mendownload ilegal
+4. fraud
+    1. menipulasi informasi bertujuan mengeruk keuntungan sebesar-besarnya
+    2. biasanya sasaran informasi keuangan
+5. gambling
+    1. perjudian yang berskala global
+6. mobile gambling
+    1. perjudian menggunakan wireless device
+7. pornografi dan paedophilia
+8. data forgery
+    1. memalsukan data pada dokumen penting yang ada di internet
+    2. dokumen biasanya dimiliki oleh instansi pemerintah
