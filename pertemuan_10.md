@@ -1,7 +1,7 @@
 # aplikasi dan peranan tik
 
 1. konsep tik merupakan gabungan dari 2 konsep
-2. information technologi dan communication technology (ICT)
+2. information technology dan communication technology (ICT)
 3. TIK adalah teknologi untuk menangkat, menginterpretasi, menyimpan, dan menyampaikan atau mentransmisikan informasi
 4. TIK terdiri dari *hardware* dan *software* 
 
